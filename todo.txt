@@ -1,4 +1,0 @@
-Next steps:
-- download the different datasets, webscrape
-- clean the data up, list definitions of all the variables you keep and use
-- I will webscrape as much as possible till wednesday night and hopefully just clean after that
